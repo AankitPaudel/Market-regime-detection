@@ -3,7 +3,7 @@
 **A live ML web application that predicts equity direction by first detecting whether algorithmic traders are dominating the market.**
 
 > 👤 Ankit Paudel · CS 4771 Machine Learning · University of Idaho  
-> 🔗 Live Demo: *(deploy to Vercel — update URL here)*  
+> 🔗 Live Demo: https://market-regime-detection-sigma.vercel.app/  
 > ⚠️ Research project — not financial advice
 
 ---
